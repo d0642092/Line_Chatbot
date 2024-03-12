@@ -1,5 +1,7 @@
 # Line_Chatbot
 The project for line chatbot about laptop infomation, using dialogflow, mySQL, and python.
+## 呈現影片
+https://github.com/d0642092/Line_Chatbot/assets/43847520/d45fb9ab-eb3c-4e31-bad5-aadcc4e7f3c5
 
 ## 程式架構  
 ![程式架構](./doc/img/System%20Architecture.png)    
