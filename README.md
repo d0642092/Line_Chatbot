@@ -36,7 +36,7 @@ The project for line chatbot about laptop infomation, using dialogflow, mySQL, a
 |特價|可查詢特價商品  
 
 ## 網頁抓取  
-!!![] 時間久遠，無法正常抓取網頁! 
+!!!時間久遠，無法正常抓取網頁!!!
 > 資料庫使用MySQL語法  
 * 環境設定  
 
