@@ -4,7 +4,8 @@ use chatbot;
 -- laptop table
 create table laptop(
 	lapNO int not null,
-	lapID varchar(100) not null,
+	-- lapID: laptop name
+	lapID varchar(100) not null, 
 	lapPrice int not null,
 	lapCPU varchar(100),
 	lapGPU varchar(100),

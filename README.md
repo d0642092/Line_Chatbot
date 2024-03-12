@@ -6,6 +6,12 @@ The project for line chatbot about laptop infomation, using dialogflow, mySQL, a
 ## 資料流程圖  
 ![資料流程圖](./doc/img/DFD.png)    
 
+## 資料庫
+### Schema
+![Schema](./doc/img/Schema.png)
+### ERD
+![ERD](./doc/img/ERD.png)
+
 ## Bot Server
 > 接收Line訊息傳至Dialogflow進行資訊擷取  
 > 從資料庫中獲資料取或執行指令回傳Line訊息  
