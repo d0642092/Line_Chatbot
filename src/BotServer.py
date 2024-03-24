@@ -16,7 +16,7 @@ handler = WebhookHandler("Channel secret")
 # dialogflow CLIENT_ACCESS_TOKEN
 # https://dialogflow.cloud.google.com/#/agent/chat-rujcse/intents
 CLIENT_ACCESS_TOKEN = 'CLIENT_ACCESS_TOKEN'
-DB = Database(DB="chatbot", user="root", password="0000")
+DB = Database(DB="db_name", user="db_user", password="db_password")
 app = Flask(__name__)
 
 # Line connect
