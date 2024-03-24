@@ -26,7 +26,7 @@ if __name__ == "__main__":
     hrefs = get_notebook_link()
     wants = ["型號", "價格", "CPU", "GPU", "RAM", "資料儲存應用", "保固"]
     # connect database
-    DB = {"DB":"chatbot","user":"root", "password":"0000"}
+    DB = {"DB":"db_name","user":"db_user", "password":"db_password"}
     db = pymysql.connect("localhost", DB["user"], DB["password"], DB["DB"])
     cursor = db.cursor()
     product = []
